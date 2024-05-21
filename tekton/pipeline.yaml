@@ -78,4 +78,3 @@ spec:
         value: "$(params.build-image)"
       runAfter:
         - tests
-        - lint
